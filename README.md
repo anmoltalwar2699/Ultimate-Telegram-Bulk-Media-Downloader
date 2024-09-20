@@ -7,7 +7,7 @@ Python: Version 3.11 or higher
 pip: Version 24.2 or higher
 To verify your installations, run the following commands in your command prompt:
 
-$ python --version
+$python --version
 $ pip --version
 
 Required Libraries
