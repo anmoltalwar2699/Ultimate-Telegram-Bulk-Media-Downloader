@@ -13,8 +13,9 @@ $ pip --version
 Required Libraries
 After installing Python and pip, install the necessary libraries using these commands:
 
-$ pip install telethon
-$ pip install python-dotenv
+$pip install telethon
+
+$pip install python-dotenv
 
 Installation
 Download the Tele Downloader folder from the repository.
