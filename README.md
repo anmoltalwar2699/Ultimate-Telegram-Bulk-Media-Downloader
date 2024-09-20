@@ -5,18 +5,24 @@ Download the Source Code
 Pre-Requisites
 Python: Version 3.11 or higher
 pip: Version 24.2 or higher
+
 To verify your installations, run the following commands in your command prompt:
-
-$python --version
-$ pip --version
-
+IF you need to install we recommend install it via Microsoft Store as it installs pip3 and adds them to local variable path 
+```sh
+python --version
+```
+```sh
+pip --version
+```
 Required Libraries
 After installing Python and pip, install the necessary libraries using these commands:
 
-$pip install telethon
-
-$pip install python-dotenv
-
+```sh
+pip install telethon
+```
+```sh
+pip install python-dotenv
+```
 Installation
 Download the Tele Downloader folder from the repository.
 Open the command prompt and navigate to the Tele Downloader folder. Example:
@@ -38,7 +44,9 @@ cd C:\Users\"User"\Downloads\Tele Downloader
 Alternatively, open the Tele Downloader folder and type cmd in the address bar, then press Enter.
 
 Run the script using the following command:
-$ python script.py
+```sh
+ python script.py
+```
 
 The script will prompt you to log in. Enter your phone number in the format:
 +(country code) phone number
